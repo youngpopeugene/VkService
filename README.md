@@ -30,3 +30,21 @@
 * last_name - фамилия пользователя user_id
 * first_name - имя пользователя user_id
 * member - признак того, что пользователь состоит в группе group_id
+
+### Что реализовано: ### 
+
+:white_check_mark: Валидация запросов на предмет корректности формата и передаваемых полей 
+
+:white_check_mark: Обработка ошибок от VK с выдачей информативного ответа
+
+:white_check_mark: Swagger документация 
+
+:white_check_mark: JUnit тесты 
+
+:white_check_mark: Кэширование ответов на стороне приложения 
+
+:white_check_mark: База данных PostgreSQL в контейнере Docker 
+
+:white_check_mark: JSON Web Token (JWB) аутентификация 
+
+:x: Сборка и деплой приложения в облако (minikube/minishift)
