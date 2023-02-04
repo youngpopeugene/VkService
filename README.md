@@ -57,3 +57,17 @@
 :white_check_mark: JUnit тесты 
 
 :x: Сборка и деплой приложения в облако (minikube/minishift)
+
+
+## Как запустить ?
+
+
+```
+git clone https://github.com/youngpopeugene/VkService.git
+
+cd VkService
+
+docker-compose build && docker-compose up
+
+mvn spring-boot:run
+```
