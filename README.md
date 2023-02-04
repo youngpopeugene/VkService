@@ -71,3 +71,8 @@ docker-compose build && docker-compose up
 
 mvn spring-boot:run
 ```
+
+Запуск JUnit тестов 
+```
+mvn clean test
+```
