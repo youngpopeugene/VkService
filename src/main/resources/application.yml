@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: admin
+    password: admin
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+    database: postgresql
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+
+vk_service_token: vk1.a.5YLn7cH0m4F-TMSFFp0_5k_MvBXFRge5I7MFqhTlfpGDS8xTu9qS4j8aAFrU840_tcoKcBVljhgbLFD-yp9hm0S1W4xxAuoUDlC_6PEiOy1QJYI5Jk3hy2JvuJVQ8WWG_Xn8YTqO21T7QqBkl4TcSo_pnpm8WgfICAnYoKG5phJyjbq9efYy9n6Lkhp-NKCeFcV3MwZ1aqUcbJiEStv0tg

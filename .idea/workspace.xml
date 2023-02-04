@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51c5bfaa-aaf5-4530-b392-e0c27239efc4" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2L8yCQP2CX7YnmT1D1jYYUC5awG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/evgenijtulyakov/Desktop/vkservice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;0afc7ddf15840d138730aef30fbc4085&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.youngpopeugene.vkservice" />
+      <recent name="com.youngpopeugene.vkservice.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.VkserviceApplication">
+    <configuration name="VkServiceApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VkService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youngpopeugene.vkservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.youngpopeugene.vkapiservice" />
+      <option name="MAIN_CLASS_NAME" value="com.youngpopeugene.vkservice.VkServiceApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VkServiceApplicationTests.authenticateWrongCredentials" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VkService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youngpopeugene.vkservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.youngpopeugene.vkapiservice" />
+      <option name="MAIN_CLASS_NAME" value="com.youngpopeugene.vkservice.VkServiceApplicationTests" />
+      <option name="METHOD_NAME" value="authenticateWrongCredentials" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VkServiceApplicationTests.getUserAndMemberStatusOk" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VkService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youngpopeugene.vkservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.youngpopeugene.vkapiservice" />
+      <option name="MAIN_CLASS_NAME" value="com.youngpopeugene.vkservice.VkServiceApplicationTests" />
+      <option name="METHOD_NAME" value="getUserAndMemberStatusOk" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VkServiceApplicationTests.infoRequestOkIsMember" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="VkService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youngpopeugene.vkservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.youngpopeugene.vkapiservice" />
+      <option name="MAIN_CLASS_NAME" value="com.youngpopeugene.vkservice.VkServiceApplicationTests" />
+      <option name="METHOD_NAME" value="infoRequestOkIsMember" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="VkService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="VkService" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VkserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="VkService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youngpopeugene.vkservice.VkServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Write tests for method ApiController.getUserAndMemberStatus" type="com.diffblue.cover.write-tests-run-configuration" factoryName="com.diffblue.cover.write-tests-run-configuration" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="VkService" />
+      <settings run-config-name="Write tests for method ApiController.getUserAndMemberStatus" include-system-env-vars="true">
+        <jvm-args />
+        <selection-scope>method</selection-scope>
+        <selected-element key="com.youngpopeugene.vkservice.controllers.ApiController.getUserAndMemberStatus:(Ljava/lang/String;Lcom/youngpopeugene/vkservice/model/api/BaseRequest;)Lcom/youngpopeugene/vkservice/model/api/BaseResponse;" />
+      </settings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VkServiceApplicationTests" />
+        <item itemvalue="JUnit.VkServiceApplicationTests.authenticateWrongCredentials" />
+        <item itemvalue="JUnit.VkServiceApplicationTests.getUserAndMemberStatusOk" />
+        <item itemvalue="JUnit.VkServiceApplicationTests.infoRequestOkIsMember" />
+        <item itemvalue="Diffblue Cover.Write tests for method ApiController.getUserAndMemberStatus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51c5bfaa-aaf5-4530-b392-e0c27239efc4" name="Changes" comment="" />
+      <created>1675266878403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675266878403</updated>
+      <workItem from="1675266879961" duration="1321000" />
+      <workItem from="1675273364062" duration="37780000" />
+      <workItem from="1675378700249" duration="26936000" />
+      <workItem from="1675511663761" duration="17553000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalStateException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="jakarta.validation.NoProviderFoundException" package="jakarta.validation" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
