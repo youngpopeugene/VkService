@@ -39,6 +39,12 @@
 * member - признак того, что пользователь состоит в группе group_id
 
 
+Рекомендуемые фреймворки и библиотеки:
+* Spring Boot
+* Apache Camel
+* Jackson
+
+
 ## Что реализовано: ##
 
  
@@ -56,10 +62,10 @@
 
 :white_check_mark: JUnit тесты 
 
-:x: Сборка и деплой приложения в облако (minikube/minishift)
+:x: Сборка и деплой приложения в облако ***(minikube/minishift)***
 
 
-## Как запустить ?
+## Как запустить?
 
 
 ```
@@ -72,7 +78,18 @@ docker-compose build && docker-compose up
 mvn spring-boot:run
 ```
 
+
 Запуск JUnit тестов 
+
+
 ```
 mvn clean test
+```
+
+
+Swagger документация будет доступна по ссылке:
+
+
+```
+http://localhost:8080/swagger-ui/index.html
 ```
