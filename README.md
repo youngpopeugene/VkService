@@ -79,7 +79,7 @@ mvn spring-boot:run
 ```
 
 
-Запуск JUnit тестов 
+Запуск JUnit тестов:
 
 
 ```
